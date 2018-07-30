@@ -10,7 +10,9 @@ This file does a number of things:
 * Calculates the accuracy of the sentiment analysis, not surprisingly the VADER analsis did better out of the box. There are ways to raise the subjectivity and polarity scores to get better results, but for this experiment I wanted to see out of the box how do these products perform
 
 Visualizations of results
+
 ![alt text](https://github.com/GeebzData/twitterSentimentAnalysis/blob/master/Screen%20Shot%202018-07-30%20at%204.30.08%20PM.png)
+
 ![alt text](https://github.com/GeebzData/twitterSentimentAnalysis/blob/master/Screen%20Shot%202018-07-30%20at%204.30.08%20PM.png)
 
 Credit due where credit is earned:
