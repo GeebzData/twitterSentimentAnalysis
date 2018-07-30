@@ -13,7 +13,7 @@ Visualizations of results
 
 ![alt text](https://github.com/GeebzData/twitterSentimentAnalysis/blob/master/Screen%20Shot%202018-07-30%20at%204.30.08%20PM.png)
 
-![alt text](https://github.com/GeebzData/twitterSentimentAnalysis/blob/master/Screen%20Shot%202018-07-30%20at%204.30.08%20PM.png)
+![alt text](https://github.com/GeebzData/twitterSentimentAnalysis/blob/master/Screen%20Shot%202018-07-30%20at%204.32.02%20PM.png)
 
 Credit due where credit is earned:
 - https://pythonprogramming.net/sentiment-analysis-python-textblob-vader/
